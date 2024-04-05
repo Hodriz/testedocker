@@ -1,0 +1,2 @@
+2024/03/27 14:53:45 [notice] 1204#9492: signal process started
+2024/03/27 14:53:45 [error] 1204#9492: OpenEvent("Global\ngx_stop_10588") failed (2: O sistema não pode encontrar o arquivo especificado)
